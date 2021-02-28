@@ -1,0 +1,9 @@
+README has instructions, how to use/install ways to report bugs. ask lantz for the template
+
+
+
+include README, bin runb file, env. file, single responsibility for classes chett tiller, end of this week
+
+take the API calling functionality and put it in a different class. return response
+
+make user_input a main class for the run file
